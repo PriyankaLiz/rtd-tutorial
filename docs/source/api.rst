@@ -9,7 +9,6 @@ API
 .. list-table:: Ingredients
     :header-rows: 1
     :align: center
-    :class: wy-table-responsive
 
     * - Ingredient
       - Veg or Non-Veg
